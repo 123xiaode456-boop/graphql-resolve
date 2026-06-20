@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:DubFriend/graphql-resolve.git"
+    "url": "git+https://github.com/DubFriend/graphql-resolve.git"
   },
   "author": "Brian Detering",
   "license": "MIT",
